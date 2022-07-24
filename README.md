@@ -4,4 +4,4 @@ welcome to my github page. you should check out my [website](//spitemim.xyz/) an
 
 fun facts about me:
 
-* i use arch btw <img src='logo.png' style='max-height: 1em' alt='(arch logo)'/>
+* i use arch btw <img src='logo.png' style='height: 12px; max-height: 12px' alt='(arch logo)'/>
