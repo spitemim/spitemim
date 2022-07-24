@@ -5,3 +5,5 @@ welcome to my github page. you should check out my [website](//spitemim.xyz/) an
 fun facts about me:
 
 * i use arch btw <img src='logo.png' style='height: 1em; max-height: 1em' alt='(arch logo)'/>
+* fav languages are shell script and C
+* i'm a fan of simplicity
