@@ -2,8 +2,11 @@
 
 ## MOVING AWAY FROM GITHUB
 
-As Github is now a Microshit product, I'm not going to use it, outside of
+As Github is now a Microsoft product, I'm not going to use it, outside of
 contributing to projects hosted on Github.
+
+My actively maintained repos that were once mirrored on this site are now
+private. They are still accessible through my Codeberg and git server.
 
 Wanna check out my personal projects?
 
