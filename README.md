@@ -1,9 +1,13 @@
-# spitemim -- some guy on the internet
+# spitemim
 
-welcome to my github page. you should check out my [website](//spitemim.xyz/) and [git server](//git.spitemim.xyz/).
+## MOVING AWAY FROM GITHUB
 
-fun facts about me:
+As Github is now a Microshit product, I'm not going to use it, outside of
+contributing to projects hosted on Github.
 
-* i use arch btw <img src='logo.png' style='height: 1em; max-height: 1em' alt='(arch logo)'/>
-* fav languages are shell script and C
-* i'm a fan of simplicity
+Wanna check out my personal projects?
+
+* [Codeberg](//codeberg.org/spitemim)
+* [git.spitemim.xyz](//git.spitemim.xyz)
+
+Also check out [my website](//spitemim.xyz).
